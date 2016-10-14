@@ -1,5 +1,7 @@
-name: example-environment
+name: myenv
 channels: !!python/tuple
 - defaults
 dependencies:
-- anaconda-nb-extensions::anaconda-nb-extensions=1.0.0
+- anaconda-nb-extensions::anaconda-nb-extensions=1.0.0=py35_0
+- pip:
+  - lmfit

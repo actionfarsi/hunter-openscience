@@ -25,3 +25,9 @@ run this
 ## Suggested tools
  - Anaconda3 distribution
  - GitKraken
+
+## Examples
+ - [Replication of Reinhart-Rogoff](http://nbviewer.jupyter.org/github/vincentarelbundock/Reinhart-Rogoff/blob/master/reinhart-rogoff.ipynb)
+ - [Replication of 538 article](http://nbviewer.jupyter.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb)
+ - [Ligo](https://losc.ligo.org/tutorials/)
+ - and [many more] (https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
