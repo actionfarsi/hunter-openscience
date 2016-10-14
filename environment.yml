@@ -1,4 +1,5 @@
 name: example-environment
-
+channels: !!python/tuple
+- defaults
 dependencies:
 - anaconda-nb-extensions::anaconda-nb-extensions=1.0.0
