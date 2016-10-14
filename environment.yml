@@ -1,4 +1,4 @@
 name: example-environment
 
 dependencies:
- - anaconda-nb-extensions
+- anaconda-nb-extensions::anaconda-nb-extensions=1.0.0
